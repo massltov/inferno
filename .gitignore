@@ -1,13 +1,4 @@
-.git
-lib
-.build
-.jshintrc
-.idea
-.vscode
-jsconfig.json
-coverage
 node_modules
-.DS_Store
-*.log
-*.swp
-*~
+coverage
+npm-debug.log
+dist
